@@ -1,0 +1,15 @@
+package employee;
+
+public class Employee {
+
+	private String name;
+	
+	void setName(String name) {
+		this.name = name;
+	
+	}
+	
+	String getName() {
+		return name;
+	}
+}
